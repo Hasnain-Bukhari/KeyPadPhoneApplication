@@ -11,17 +11,20 @@ C# console application to handle input from old keypad phone
 - Includes unit tests for validation.
 
 ## How to Run
+Open solution in IDE (Visual Studio or Rider)
+
+Process to Run and test using terminal
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/OldPhonePadApp.git
+   git clone https://github.com/Hasnain-Bukhari/KeyPadPhoneApplication.git
    
-   cd OldPhonePadApp
+   cd KeyPadPhoneApplication
 
 2. Build the project:
     dotnet build
 3. Run the application:
-    dotnet run --project OldPhonePadApp
+    dotnet run --project KeyPadPhone
 
 ## How to Test
     dotnet test
