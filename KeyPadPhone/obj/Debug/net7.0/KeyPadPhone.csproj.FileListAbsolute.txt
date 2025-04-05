@@ -1,0 +1,15 @@
+/Users/sbukhari/Documents/localrepo/IRS/KeyPadPhone/obj/Debug/net7.0/KeyPadPhone.csproj.AssemblyReference.cache
+/Users/sbukhari/Documents/localrepo/IRS/KeyPadPhone/obj/Debug/net7.0/KeyPadPhone.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sbukhari/Documents/localrepo/IRS/KeyPadPhone/obj/Debug/net7.0/KeyPadPhone.AssemblyInfoInputs.cache
+/Users/sbukhari/Documents/localrepo/IRS/KeyPadPhone/obj/Debug/net7.0/KeyPadPhone.AssemblyInfo.cs
+/Users/sbukhari/Documents/localrepo/IRS/KeyPadPhone/obj/Debug/net7.0/KeyPadPhone.csproj.CoreCompileInputs.cache
+/Users/sbukhari/Documents/localrepo/IRS/KeyPadPhone/bin/Debug/net7.0/KeyPadPhone
+/Users/sbukhari/Documents/localrepo/IRS/KeyPadPhone/bin/Debug/net7.0/KeyPadPhone.deps.json
+/Users/sbukhari/Documents/localrepo/IRS/KeyPadPhone/bin/Debug/net7.0/KeyPadPhone.runtimeconfig.json
+/Users/sbukhari/Documents/localrepo/IRS/KeyPadPhone/bin/Debug/net7.0/KeyPadPhone.dll
+/Users/sbukhari/Documents/localrepo/IRS/KeyPadPhone/bin/Debug/net7.0/KeyPadPhone.pdb
+/Users/sbukhari/Documents/localrepo/IRS/KeyPadPhone/obj/Debug/net7.0/KeyPadPhone.dll
+/Users/sbukhari/Documents/localrepo/IRS/KeyPadPhone/obj/Debug/net7.0/refint/KeyPadPhone.dll
+/Users/sbukhari/Documents/localrepo/IRS/KeyPadPhone/obj/Debug/net7.0/KeyPadPhone.pdb
+/Users/sbukhari/Documents/localrepo/IRS/KeyPadPhone/obj/Debug/net7.0/KeyPadPhone.genruntimeconfig.cache
+/Users/sbukhari/Documents/localrepo/IRS/KeyPadPhone/obj/Debug/net7.0/ref/KeyPadPhone.dll
